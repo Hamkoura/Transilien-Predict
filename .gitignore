@@ -1,0 +1,14 @@
+# Configuration des IDE
+.idea/
+.vscode/
+
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Cache Jupyter
+.ipynb_checkpoints/
